@@ -4,6 +4,9 @@ This was developed when we participated in the DecodEV-Hackathon by WUElev8.More
 
 DecodEV Hackathon, Website creation for Emergency Battery drainage complaint for EVs
 
+You can access the WebApp here https://ashwinsheoran02.github.io/DecodEV-Hackathon/
+
+
 What if EV battery :battery: drains in the middle of nowhere?
 
 Skeptical about calling a tow truck :pickup_truck: ?
@@ -11,7 +14,6 @@ Skeptical about calling a tow truck :pickup_truck: ?
 Well we have a solution, use our WebApp to call our technicians who will be coming with their portable charging stations that will help you to charge 
 :electric_plug: your Vehicle in this Emergency situtation
 
-You can access the WebApp here https://ashwinsheoran02.github.io/DecodEV-Hackathon/
 
 ![evweb1](https://user-images.githubusercontent.com/88393756/189523799-22929c05-69ec-4946-942d-6e29b71720e0.jpg)
 
