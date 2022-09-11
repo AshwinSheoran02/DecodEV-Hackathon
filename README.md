@@ -15,6 +15,6 @@ You can access the WebApp here https://ashwinsheoran02.github.io/DecodEV-Hackath
 ![evweb1](https://user-images.githubusercontent.com/88393756/189523799-22929c05-69ec-4946-942d-6e29b71720e0.jpg)
 ![evweb2](https://user-images.githubusercontent.com/88393756/189523803-30cc7924-144b-44e0-944c-dc80b5b5a6f0.jpg)
 
-Please note that this is only a prototype idea and not actually implemented
+Please note that this is only a prototype idea and not actually implemented, since we haven't yet linked it to the backend the submit button will leave the user to Error 405 :(
 <p align="center">
  Made By Ashwin Sheoran and Harshit Garg 
