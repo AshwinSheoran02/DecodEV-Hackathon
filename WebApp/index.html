@@ -23,7 +23,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
-              <a class="nav-link" href="/index.html">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
             </li>
             
           </ul>
@@ -35,37 +35,47 @@
       <hr>
       <div class="container">
         <!-- Content here -->
-        Use this portal to register the compliant for Emergency Battery drainage for your EV.
-        <form class="row g-3">
+        <h5>Use this portal to register the compliant for Emergency Battery drainage for your EV.</h5>
+        <h5>We will take basic info as Phone Number, Vehicle Registeratio Number, and your location to infer the type of services that would be provided to you.</h5>
+        <h5>Upon reaching you our assistants will help tou charge your EV at your current Location</h5>
+        <br>
+        <h5>Please fill in your details</h5>
+        <hr>
+
+        <form class="row g-3" method="POST" action="confirmation.html">
             <div class="col-md-6">
-                <label for="phone">Phone Number:</label>
-              <input type="tel" class="form-control" id="inputEmail4">
+                <label for="phone">Phone Number <span class="required">*</span> </label>
+              <input type="tel" class="form-control" id="inputEmail4" required>
             </div>
             <div class="col-md-6">
-              <label for="vreg" class="form-label">Vehicle Registration Number</label>
-              <input type="text" class="form-control" id="inputPassword4">
+              <label for="vreg" class="form-label">Vehicle Registration Number <span class="required">*</span></label>
+              <input type="text" class="form-control" id="inputPassword4" required>
             </div>
             <div class="col-12">
-              <label for="issue" class="form-label">Describe the issue</label>
-              <input type="text" class="form-control" id="inputisse" placeholder="">
+              <label for="issue" class="form-label">Describe the issue <span class="required">*</span></label>
+              <input type="text" class="form-control" id="inputisse" placeholder="" required>
             </div>
             <div class="col-12">
-              <label for="inputAddress2" class="form-label">Enter your current location</label>
-              <input type="text" class="form-control" id="inputAddress2" placeholder="">
+              <label for="inputAddress2" class="form-label">Enter your current location <span class="required">*</span></label>
+              <input type="text" class="form-control" id="inputAddress2" placeholder=""required>
             </div>
            
             <div class="col-12">
               <div class="form-check">
-                <input class="form-check-input" type="checkbox" id="gridCheck">
-                <label class="form-check-label" for="gridCheck">
-                  Confirm the above information is True
+                <input class="form-check-input" type="checkbox" id="gridCheck" required>
+                <label class="form-check-label" for="gridCheck" >
+                  Confirm that the above information is True
                 </label>
               </div>
             </div>
             <div class="col-12">
-              <button type="submit" class="btn btn-primary">Sign in</button>
+              <button type="submit" class="btn btn-primary">Sign in <a herf="confirmation.html"></a></button>
             </div>
           </form>
+          <hr>
+          <p>Please Note that you might be charged for Emergency battery charging.</p>
+          <p>The total cost will be determined by your location, your Vehicle and your subscription plan.</p>
+          
 
 
       </div>
@@ -73,3 +83,12 @@
     
 </body>
 </html>
+
+<style>
+
+
+
+.required {
+  color: red;
+}
+</style>
