@@ -17,6 +17,6 @@ Well we have a solution, use our WebApp to call our technicians who will be comi
 
 ![evweb1](https://user-images.githubusercontent.com/88393756/189523799-22929c05-69ec-4946-942d-6e29b71720e0.jpg)
 
-Please note that this is only a prototype idea and not actually implemented, since we haven't yet linked it to the backend the submit button will leave the user to Error 405 :(
+Please note that this is only a prototype idea and not actually implemented, since we haven't yet linked it to the backend, the submit button will leave the user to Error 405 :(
 <p align="center">
  Made By Ashwin Sheoran and Harshit Garg 
