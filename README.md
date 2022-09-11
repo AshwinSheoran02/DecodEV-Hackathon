@@ -11,5 +11,4 @@ Well we have a solution, use our WebApp to call our technicians who will be comi
 
 
 <p align="center">
-
  Made By Ashwin Sheoran and Harshit Garg 
