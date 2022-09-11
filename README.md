@@ -1,4 +1,6 @@
 # DecodEV-Hackathon
+
+This was developed when we participated in the DecodEV-Hackathon by WUElev8.More details can be found here https://wuelev8.tech/drills/decodev
 DecodEV Hackathon, Website creation for Emergency Battery drainage complaint for EVs
 
 What if EV battery :battery: drains in the middle of nowhere?
